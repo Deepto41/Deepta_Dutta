@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Deepta Dutta
-###   || 💻 Full-Stack Web Developer || <br> 
+###   || 💻 MERN-Stack Web Developer || <br> 
 
 # 💫 About Me:
 I’m a passionate full-stack web developer with a strong focus on building scalable, efficient, and user-friendly applications. With experience in both front-end and back-end technologies, I specialize in:<br><br>🔧 Custom WordPress Theme & Plugin Development<br>⚛️ Modern JavaScript frameworks like ReactJS & NextJS<br>🛠️ REST API integration & server-side development with Node.js & PHP<br>🎨 Beautiful UI/UX design with TailwindCSS<br>I’m always eager to take on new challenges and contribute to meaningful projects.<br><br>
