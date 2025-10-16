@@ -30,7 +30,7 @@ I’m a passionate full-stack web developer with a strong focus on building scal
 
 # 🚀 Current Goals
 Building production-grade React.js apps <br>
-Sharing knowledge through open-source and tutorials
+Sharing knowledge through open-source and tutorials <br>
 
 ⚡ Let’s build something awesome together!
 
