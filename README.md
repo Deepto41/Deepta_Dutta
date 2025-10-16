@@ -28,3 +28,9 @@ I’m a passionate full-stack web developer with a strong focus on building scal
 ---
 [![](https://visitcount.itsvg.in/api?id=Deepto41&icon=0&color=9)](https://visitcount.itsvg.in)
 
+# 🚀 Current Goals
+Building production-grade React.js apps
+Sharing knowledge through open-source and tutorials
+
+⚡ Let’s build something awesome together!
+
