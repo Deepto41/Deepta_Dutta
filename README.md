@@ -1,4 +1,4 @@
-#👋 Hi there, I'm Deepta Dutta
+# 👋 Hi there, I'm Deepta Dutta
 || 💻 Full-Stack Web Developer ||
 
 # 💫 About Me:
