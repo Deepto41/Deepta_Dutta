@@ -67,5 +67,7 @@ Authentication:
 - Contributing to meaningful projects that make an impact <br>
 - Improving coding skills and best practices every day <br>
 
+---
+
 ⚡ Let’s build something awesome together!
 
