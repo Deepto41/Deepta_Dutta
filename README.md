@@ -2,7 +2,44 @@
 ###   || 💻 MERN-Stack Web Developer || <br> 
 
 # 💫 About Me:
-I’m a passionate full-stack web developer with a strong focus on building scalable, efficient, and user-friendly applications. With experience in both front-end and back-end technologies, I specialize in:<br><br>🔧 Custom WordPress Theme & Plugin Development<br>⚛️ Modern JavaScript frameworks like ReactJS & NextJS<br>🛠️ REST API integration & server-side development with Node.js & PHP<br>🎨 Beautiful UI/UX design with TailwindCSS<br>I’m always eager to take on new challenges and contribute to meaningful projects.<br><br>
+# 👋 Hi, I'm a MERN Stack Developer
+
+I’m a passionate **MERN Stack Developer** dedicated to building **scalable, efficient, and user-centric web applications**.  
+With hands-on experience in both front-end and back-end technologies, I specialize in delivering **high-quality, maintainable code** and **seamless user experiences**.
+
+---
+
+## 🚀 Tech Expertise
+
+### ⚛️ Front-end
+- React.js  
+- Next.js  
+- TailwindCSS  
+
+### 🛠️ Back-end
+- Node.js  
+- Express.js  
+- RESTful APIs  
+
+### 🗄️ Database
+- MongoDB  
+- Firebase  
+
+### 🎨 UI/UX
+- Responsive & modern design with TailwindCSS  
+
+### 🔒 Authentication
+- JWT  
+- Firebase Auth  
+
+---
+
+## 💡 About Me
+I thrive on solving complex problems, learning new technologies, and contributing to meaningful, real-world projects that make an impact.
+
+---
+
+⭐ *“Code. Create. Innovate.”*
 
 
 # 🔗 Connect with Me 
