@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/JjwnSZTz/1756830632692.jpg" alt="1756830632692" border="0">
+<img src="https://i.ibb.co/JjwnSZTz/1756830632692.jpg" alt="Project Banner" width="800" height="300">
 
 ---
 
