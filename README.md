@@ -2,7 +2,7 @@
 
 ---
 
-# 💫 About Me:
+# 💫 About Me
 
 I’m a passionate **MERN Stack Developer** dedicated to building **scalable, efficient, and user-centric web applications**.  
 With hands-on experience in both front-end and back-end technologies, I specialize in delivering **high-quality, maintainable code** and **seamless user 
@@ -17,7 +17,7 @@ experiences**.
 ---
 
 # 🔗 Connect with Me 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/facebook.com/deepto.19) <br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/deeptodutta/) <br> [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/x.com/deepta_dutta) <br> [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deeptaduttaksp@gmail.com) <br>
+Facebook:[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/facebook.com/deepto.19) <br> [!LinkedIn:[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/deeptodutta/) <br> Twitter:[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/x.com/deepta_dutta) <br> Email:[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deeptaduttaksp@gmail.com) <br>
 
 ---
 
