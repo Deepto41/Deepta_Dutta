@@ -23,32 +23,24 @@ experiences**.
 ---
 
 # 💻 Tech Stack
-## 🖥️ Frontend  
+## Frontend : 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)](https://react.dev/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)](https://tailwindcss.com/)
 
----
-
-## ⚙️ Backend  
+## Backend :
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat)](https://expressjs.com/)
 
----
-
-## 🗄️ Database  
+##  Database :
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)](https://www.mongodb.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)](https://firebase.google.com/)
 
----
-
-## 🎨 UI/UX  
+##  UI/UX :
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)](https://tailwindcss.com/)
 [![Responsive Design](https://img.shields.io/badge/Responsive%20Design-4285F4?logo=googlechrome&logoColor=white&style=flat)](#)
 
----
-
-## 🔒 Authentication  
+##  Authentication :
 [![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=flat)](https://jwt.io/)
 [![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-FFCA28?logo=firebase&logoColor=black&style=flat)](https://firebase.google.com/docs/auth)
 
