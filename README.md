@@ -45,7 +45,6 @@ Authentication:
 [![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-FFCA28?logo=firebase&logoColor=black&style=flat)](https://firebase.google.com/docs/auth)
 
 ---
----
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Deepto41&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Deepto41&theme=dark&hide_border=false)<br/>
