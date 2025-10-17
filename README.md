@@ -1,5 +1,4 @@
-[# 👋 Hi there, I'm Deepta Dutta
-###   || 💻 MERN-Stack Web Developer || <br> ]!([https://link-to-your-image.com/image.png](https://i.ibb.co.com/JjwnSZTz/1756830632692.jpg))
+<img src="https://i.ibb.co.com/JjwnSZTz/1756830632692.jpg" alt="1756830632692" border="0">
 
 ---
 
