@@ -1,5 +1,5 @@
 [# 👋 Hi there, I'm Deepta Dutta
-###   || 💻 MERN-Stack Web Developer || <br> ][(https://i.ibb.co.com/JjwnSZTz/1756830632692.jpg)](https://ibb.co.com/whFy2tqK)
+###   || 💻 MERN-Stack Web Developer || <br> ]![Alt text]([https://link-to-your-image.com/image.png](https://i.ibb.co.com/JjwnSZTz/1756830632692.jpg))
 
 ---
 
