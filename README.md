@@ -62,7 +62,10 @@ Authentication:
 
 # 🚀 Current Goals
 - Building production-grade React.js apps <br>
-- haring knowledge through open-source and tutorials <br>
+- Sharing knowledge through open-source and tutorials <br>
+- Exploring new technologies and modern web development tools <br>
+- Contributing to meaningful projects that make an impact <br>
+- Improving coding skills and best practices every day <br>
 
 ⚡ Let’s build something awesome together!
 
