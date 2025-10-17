@@ -22,23 +22,21 @@ experiences**.
 
 ---
 # 💻 Tech Stack
-### 🖥️ Frontend
-<p>
+###  Frontend : <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
 </p>
 
-### ⚙️ Backend
-<p>
+###  Backend : <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
 </p>
 
-### 🗄️ Database
-<p>
+### Database : <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
 </p>
+
 ---
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Deepto41&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
