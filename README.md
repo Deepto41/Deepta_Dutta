@@ -15,6 +15,13 @@ experiences**.
  I thrive on solving complex problems, learning new technologies, and contributing to meaningful, real-world projects that make an impact.
 
 ---
+# 🌟 Current Activities
+- Exploring **Next.js** and building server-side rendered apps 🚀  
+- Working on a **Courier service website** project 🌍  
+- Learning advanced **React.js patterns** and state management ⚛️  
+- Experimenting with **API integrations** and dynamic content 🔗
+  
+---
 
 # 🔗 Connect with Me 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/facebook.com/deepto.19) <br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/deeptodutta/) <br>[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/x.com/deepta_dutta) <br> [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deeptaduttaksp@gmail.com) <br>
@@ -69,5 +76,5 @@ Authentication:
 
 ---
 
-⚡ Let’s build something awesome together!
+|⚡ Let’s build something awesome together!
 
