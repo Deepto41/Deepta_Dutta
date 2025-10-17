@@ -8,7 +8,7 @@ I’m a passionate **MERN Stack Developer** dedicated to building **scalable, ef
 With hands-on experience in both front-end and back-end technologies, I specialize in delivering **high-quality, maintainable code** and **seamless user 
 experiences**.
 
-- ⚛️ Modern JavaScript frameworks like ReactJS
+- ⚛️ Modern JavaScript frameworks like React.JS
 - 🎨 Responsive & modern design with TailwindCSS 
 - 🛠️ REST API integration & server-side development with Node.js
 
