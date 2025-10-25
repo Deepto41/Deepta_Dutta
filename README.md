@@ -71,5 +71,5 @@ Authentication:
 
 ---
 
-|⚡ Let’s build something awesome together!
+⚡ Let’s build something awesome together!
 
